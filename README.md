@@ -1,5 +1,6 @@
 # MockFog-Agent
-MockFog | Agent Software (that runs on FogNodes)
+
+The meta repository can be found at: https://github.com/OpenFogStack/MockFog-Meta
 
 ## Run development server
 - Depending on your system run `sudo python3 fog_agent.py -hostname localhost -iface en0 -port 5000`
